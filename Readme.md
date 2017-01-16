@@ -4,7 +4,8 @@
 ___
 
 1. Functions should just return values
-2. ```
+2. Named vs anonymous functions
+    ```
     function fun(){
       return "this is funny";
     }
