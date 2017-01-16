@@ -34,3 +34,4 @@ ___
     - toLocaleString
     - toString
     - valueOf
+6. Convert your code from imperative (tell the computer what to do step by step) to declarative (functional style, let the computer do the work for you. Don't repeat yourself DRY)
